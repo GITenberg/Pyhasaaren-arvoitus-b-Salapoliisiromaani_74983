@@ -1,0 +1,37 @@
+_repo: Pyhasaaren-arvoitus-b-Salapoliisiromaani_74983
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Soininen, L.
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Lauri_Soini
+    - https://en.wikipedia.org/wiki/Lauri_Soininen
+description: ''
+gutenberg_issued: '2024-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74983'
+language: fi
+pgterms:marc905: 20240915013400sauramo
+pgterms:marc906: '1999'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: $aHelsingissä :$bKustannusosakeyhtiö Otava, $c1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Pyhäsaaren arvoitus : $b Salapoliisiromaani'
+url: http://www.gutenberg.org/ebooks/74983
